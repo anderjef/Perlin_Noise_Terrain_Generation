@@ -10,7 +10,7 @@ Current version: 0.1.0 <br>
 
 ### Display
 #### Examples
-[Example 1](Picture1.png)
+<img src="Picture1.png" alt="Example 1 Picture" height="400"/>
 
 ### Folder structure
 | Tree with Root Having Local Path | Generation Method | Description |
