@@ -34,12 +34,12 @@ Current version: 0.1.0 <br>
 Sit back, relax, and enjoy!
 
 ### Executables
-- [32-bit Linux](https://github.com/anderjef/Perlin_Noise_Terrain_Generation/application.linux32/Perlin_Noise_Terrain_Generation)
-- [64-bit Linux](https://github.com/anderjef/Perlin_Noise_Terrain_Generation/application.linux64/Perlin_Noise_Terrain_Generation)
-- [ARM 64-bit Linux](https://github.com/anderjef/Perlin_Noise_Terrain_Generation/application.linux-arm64/Perlin_Noise_Terrain_Generation)
-- [Hard Float ARMv6 Linux](https://github.com/anderjef/Perlin_Noise_Terrain_Generation/application.linux-armv6hf/Perlin_Noise_Terrain_Generation)
-- [32-bit Windows](https://github.com/anderjef/Perlin_Noise_Terrain_Generation/application.windows32/Perlin_Noise_Terrain_Generation.exe)
-- [64-bit Windows](https://github.com/anderjef/Perlin_Noise_Terrain_Generation/application.windows64/Perlin_Noise_Terrain_Generation.exe)
+- [32-bit Linux](https://github.com/anderjef/Perlin_Noise_Terrain_Generation/tree/main/application.linux32/Perlin_Noise_Terrain_Generation)
+- [64-bit Linux](https://github.com/anderjef/Perlin_Noise_Terrain_Generation/tree/main/application.linux64/Perlin_Noise_Terrain_Generation)
+- [ARM 64-bit Linux](https://github.com/anderjef/Perlin_Noise_Terrain_Generation/tree/main/application.linux-arm64/Perlin_Noise_Terrain_Generation)
+- [Hard Float ARMv6 Linux](https://github.com/anderjef/Perlin_Noise_Terrain_Generation/tree/main/application.linux-armv6hf/Perlin_Noise_Terrain_Generation)
+- [32-bit Windows](https://github.com/anderjef/Perlin_Noise_Terrain_Generation/tree/main/application.windows32/Perlin_Noise_Terrain_Generation.exe)
+- [64-bit Windows](https://github.com/anderjef/Perlin_Noise_Terrain_Generation/tree/main/application.windows64/Perlin_Noise_Terrain_Generation.exe)
 
 ## Contributions
 - Jeffrey Andersen - developer
