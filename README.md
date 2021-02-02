@@ -1,10 +1,10 @@
 # Perlin_Noise_Terrain_Generation
 
 ## Description
-This program simulates flying over terrain that is generated via Perlin noise.
-Start date: October 30, 2020
-Current version: 0.1.0
-Programming language(s):
+This program simulates flying over terrain that is generated via Perlin noise. <br>
+Start date: October 30, 2020 <br>
+Current version: 0.1.0 <br>
+#### Programming language(s):
 - Processing (Java)
 	- [Perlin_Noise_Terrain_Generation.pde](Perlin_Noise_Terrain_Generation.pde) - main program entrance sets up canvas and executes animation steps
 
