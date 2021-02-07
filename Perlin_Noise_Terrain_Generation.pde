@@ -1,7 +1,10 @@
+// Jeffrey Andersen
 //started 10/30/2020
 //inspiration: https://www.youtube.com/watch?v=IKB1hWWedMk
 
+
 //future considerations: horizontal and (bounded) vertical movement control, colored terrain
+
 
 int scale = 16; //how zoomed in the terrain is; experimentally determined to be decent
 float maxHeight = 127; //maximum height of terrain; experimentally determined to be decent
@@ -10,10 +13,12 @@ float delta = 0.1; //how spiky the terrain is; experimentally determined to be d
 float movementSpeed = 0.02; //how fast the terrain moves; experimentally determined to be decent (for large scale numbers, evenly divisible factors of delta produces perfect translation of points, whereas factors of large remainders produce more nuanced wavelike behavior)
 float terrainMultiplier = 1; //how much terrain is generated; experimentally determined to be decent
 
+
 int numRows, numColumns;
 float[][][] coordsXY;
 float[][] elevations; //aka z coordinates
 float distanceFromOrigin = 0;
+
 
 void setup() {
   size(600, 900, P3D);
@@ -28,6 +33,7 @@ void setup() {
   }
   elevations = new float[numColumns][numRows];
 }
+
 
 void draw() {
   background(0);
