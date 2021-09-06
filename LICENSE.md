@@ -1,4 +1,4 @@
-# Perlin_Noise_Terrain_Generation
+# Perlin Noise Terrain Generation
 ### Copyright
 (c) © 2020 Jeffrey Andersen
 
